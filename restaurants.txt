@@ -1,0 +1,6 @@
+House of KOKO	Cafe	12
+Seven	Cafe	5
+Boss Burgers	American	15
+Sukothai	Thai	35
+Three Hulats	Pub	20
+The Olive Tree	Meditteranean	25
